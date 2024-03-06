@@ -1,0 +1,133 @@
+[
+  {
+    "id": 1,
+    "name": "A Study to Test Bone Marrow and Blood in Children With Leukemia That Has Come Back After Treatment or Is Difficult to Treat",
+    "code": "APAL2020SC",
+    "sites": [],
+    "links": [
+      {
+        "name": "ClinicalTrials.gov",
+        "href": "https://clinicaltrials.gov/ct2/show/NCT04726241"
+      }
+    ],
+    "description": "This study aims to use clinical and biological characteristics of acute leukemias to screen for patient eligibility for available pediatric leukemia sub-trials. Testing bone marrow and blood from patients with leukemia that has come back after treatment or is difficult to treat may provide information about the patient's leukemia that is important when deciding how to best treat it, and may help doctors find better ways to diagnose and treat leukemia in children, adolescents, and young adults."
+  },
+  {
+    "id": 2,
+    "name": "Study of Selinexor and Venetoclax in Combination With Chemotherapy in Pediatric and Young Adult Patients With Refractory or Relapsed Acute Myeloid Leukemia",
+    "code": "SELCLAX",
+    "sites": [{"id": 1, "name": "St. Jude Children's Research Hospital", "active": true}],
+    "links": [
+      {
+        "name": "ClinicalTrials.gov",
+        "href": "https://clinicaltrials.gov/ct2/show/NCT04898894"
+      }
+    ],
+    "description": "The purpose of this study is to test the safety and determine the best dose of venetoclax and selinexor when given with chemotherapy drugs in treating pediatric and young adult patients with acute myeloid leukemia (AML) or acute leukemia of ambiguous lineage (ALAL) that has come back (relapsed) or did not respond to treatment (refractory)."
+  },
+  {
+    "id": 3,
+    "name": "Study of Venetoclax in Combination With Chemotherapy in Pediatric Patients With Refractory or Relapsed Acute Myeloid Leukemia or Acute Leukemia of Ambiguous Lineage",
+    "code": "VENAML",
+    "sites": [
+      {"id": 2, "name": "Children's Hospital of Orange County", "active":  true},
+      {"id": 3, "name": "Lucille Packard Children's Hospital Stanford University", "active":  true},
+      {"id": 4, "name": "UNC Lineberger Comprehensive Cancer Center", "active":  true},
+      {"id": 1, "name": "St. Jude Children's Research Hospital", "active":  true}
+    ],
+    "links": [
+      {
+        "name": "ClinicalTrials.gov",
+        "href": "https://clinicaltrials.gov/ct2/show/NCT03194932"
+      }
+    ],
+    "description": "The purpose of this study is to test the safety and determine the best dose of venetoclax and cytarabine when given with or without idarubicin in treating pediatric patients with acute myeloid leukemia (AML) that did not respond to treatment (refractory) or has come back after treatment (relapsed)."
+  },
+  {
+    "id": 5,
+    "name": "Epigenetic Reprogramming in Relapse/Refractory AML",
+    "code": "T2016-003",
+    "sites": [
+      {"id": 2, "name": "Children's Hospital of Orange County", "active":  true},
+      {"id": 3, "name": "Lucille Packard Children's Hospital Stanford University", "active":  true},
+      {"id": 4, "name": "UNC Lineberger Comprehensive Cancer Center", "active":  true},
+      {"id": 1, "name": "St. Jude Children's Research Hospital", "active":  true},
+      {"id": 5, "name": "Children's Hospital Los Angeles", "active":  true},
+      {"id": 6, "name": "UCSF School of Medicine", "active":  true},
+      {"id": 7, "name": "The Children's Hospital, University of Colorado", "active":  true},
+      {"id": 8, "name": "Children's National Medical Center", "active":  true}
+    ],
+    "links": [
+      {
+        "name": "ClinicalTrials.gov",
+        "href": "https://clinicaltrials.gov/ct2/show/NCT03263936"
+      }
+    ],
+    "description": "This is a pilot study using decitabine and vorinostat before and during chemotherapy with fludarabine, cytarabine and G-CSF (FLAG)."
+  },
+  {
+    "id": 6,
+    "name": "Liposomal Cytarabine, Daunorubicin, and Gemtuzumab Ozogamicin for the Treatment of Relapsed Refractory Pediatric Patients With Acute Myeloid Leukemia",
+    "code": "2020-0484",
+    "sites": [{"id": 9, "name": "M D Anderson Cancer Center", "active": true}],
+    "links": [
+      {
+        "name": "ClinicalTrials.gov",
+        "href": "https://clinicaltrials.gov/ct2/show/NCT04915612"
+      }
+    ],
+    "description": "This phase I trial studies the best dose and side effects of liposomal cytarabine, daunorubicin, and gemtuzumab ozogamicin in treating pediatric patients with acute myeloid leukemia that has returned after treatment (relapsed) or does not respond to treatment (refractory). Chemotherapy drugs, such as liposomal cytarabine and daunorubicin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Gemtuzumab ozogamicin is a monoclonal antibody, called gemtuzumab, linked to a toxic agent called ozogamicin. Gemtuzumab attaches to CD33 positive cancer cells in a targeted way and delivers ozogamicin to kill them. Giving liposomal cytarabine and daunorubicin and gemtuzumab ozogamicin may help to control the disease."
+  },
+  {
+    "id": 7,
+    "name": "CD123 Redirected T Cells for AML in Pediatric Subjects",
+    "code": "834675",
+    "sites": [{"id": 10, "name": "Children's Hospital of Philadelphia", "active": true}],
+    "links": [
+      {
+        "name": "ClinicalTrials.gov",
+        "href": "https://clinicaltrials.gov/ct2/show/NCT04678336"
+      }
+    ],
+    "description": "Phase 1 open-label study to estimate the safety, manufacturing feasibility, and efficacy of intravenously administered, lentivirally transduced T cells expressing anti-CD123 chimeric antigen receptors expressing tandem TCRζ and 4-1BB (TCRζ /4-1BB) costimulatory domains in pediatric subjects with relapsed/refractory Acute Myeloid Leukemia (AML)."
+  },
+  {
+    "id": 8,
+    "name": "Venetoclax in Children With Relapsed Acute Myeloid Leukemia (AML)",
+    "code": "APAL2020D",
+    "sites": [],
+    "links": [
+      {
+        "name": "ClinicalTrials.gov",
+        "href": "https://clinicaltrials.gov/ct2/show/NCT05183035"
+      }
+    ],
+    "description": "A study to evaluate if the randomized addition of venetoclax to a chemotherapy backbone (fludarabine/cytarabine/gemtuzumab ozogamicin [GO]) improves survival of children/adolescents/young adults with acute myeloid leukemia (AML) in 1st relapse who are unable to receive additional anthracyclines, or in 2nd relapse."
+  },
+  {
+    "id": 9,
+    "name": "Niclosamide in Pediatric Patients With Relapsed and Refractory AML",
+    "code": "PEDSHEMAML0007",
+    "sites": [{"id": 11, "name": "Stanford University", "active": true}],
+    "links": [
+      {
+        "name": "ClinicalTrials.gov",
+        "href": "https://clinicaltrials.gov/ct2/show/NCT05188170"
+      }
+    ],
+    "description": "Protocol is designed to evaluate a niclosamide dose escalation scale in combination with cytarabine as a therapeutic modality for pediatric subjects with relapsed/refractory acute myeloid leukemia."
+  },
+  {
+    "id": 10,
+    "name": "Relapsed Pediatric AML to Determine the Safety and Efficacy of the PARP Inhibitor Talazoparib in Combination With Conventional Chemotherapy (PARPAML)",
+    "code": "PEDSHEMAML0008",
+    "sites": [{"id": 11, "name": "Stanford University", "active": true}],
+    "links": [
+      {
+        "name": "ClinicalTrials.gov",
+        "href": "https://clinicaltrials.gov/ct2/show/NCT05101551"
+      }
+    ],
+    "description": "This is a Phase 1, open label, multicenter, dose finding study with dose expansion intended to evaluate the safety and tolerability of talazoparib in combination with conventional chemotherapy. Preliminary estimates of efficacy will be obtain through a dose expansion cohort receiving the maximum tolerated dose from the dose escalation phase of the study. This study aims to determine the safety of talazoparib in combination with conventional chemotherapy and to establish the maximum tolerated dose of all 3 drugs when given in combination. A preliminary estimate of efficacy through a dose expansion phase is a secondary aim."
+  }
+]
